@@ -1,0 +1,47 @@
+Comet Observatory [SMG_astroout01_strm] -> Professor Layton and the Curious Village - Layton's Theme [Electro Swing].
+
+Gateway 1 OST (the one you hear when you go back to the Comet Observatory with a Star) [SMG_galaxy24_multi] -> Promised Consort Radahn - Elden Ring: Shadow of the Erdtree OST.
+
+Star Chance (When the star appears) [SMG_ev_starchance_strm] -> Awakening - Hollow Knight: Silksong OST.
+
+
+
+
+Star 1 [SMG_galaxy17_strm] -> イニシエノウタ/デボル - Nier Replicant OST.
+
+Star 2 [SMG_galaxy10_strm] -> イニシエノウタ/運命 - Nier Replicant OST.
+
+Star 3 [SMG_galaxy28_strm] -> イニシエノウタ/贖罪 - Nier Automata OST.
+
+
+Star 1 (Green Cube Planet) [SMG_galaxy01_strm] -> Dongbeak - Limbus Company OST.
+
+Star 2 (Chaotics last planets) [SMG_galaxy_02_hurry_strm] -> Second Warning - Lobotomy Corporation OST.
+
+Star 3 (Sand planet + Starshroom ending) [SMG_galaxy26_strm] -> Reminiscence - Limbus Company OST.
+
+
+
+Secret 1 (Last two planets of Secret 1) [SMG_galaxy01_tomb_strm] -> Hot Spaghetti - Pizza Tower OST.
+
+Secret 2 (Cake planet + last sections of Secret 2) [SMG_galaxy02_strm] -> Cold Spaghetti - Pizza Tower OST.
+
+Secret 3 (Everything after the orange pipe for Secret 3) [SMG_galaxy03_strm] -> Spaghetti - Pizza Tower OST.
+
+
+
+
+King Kaliente [SMG_boss01a_strm + SMG_boss01b_strm] -> Lei Heng - Limbus Company OST.
+
+Fiery Dino Piranha (Before the fight) [SMG_galaxy_inter_strm] -> Intervallo VI-EX Boss Battle Theme - Limbus Company OST.
+
+Fiery Dino Piranha (Phase 1) [SMG_boss03a_strm] -> Intervallo VI-EX Boss 2 Battle Theme - Limbus Company OST.
+
+Fiery Dino Piranha (Phase 2 + 3) [SMG_boss03b_strm] -> Intervallo VI-EX Boss 2 Battle Theme 2 - Limbus Company OST.
+
+
+
+
+Main Menu [SMG_title_strm] -> Reflection - Hollow Knight OST.
+
+File Select [SMG_fileselect_strm] -> Hollow Knight: Silksong - Choral Chambers.
